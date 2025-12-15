@@ -1,7 +1,11 @@
 # Monkey Typer - Speed Typing Test
 
 A modern, responsive React application for testing typing speed and accuracy. Built with beautiful UI/UX and real-time feedback.
-<img width="1422" height="689" alt="image" src="https://github.com/user-attachments/assets/8449a308-bea8-4a48-a2f5-99290a21cc44" />
+
+
+https://github.com/user-attachments/assets/d386e008-afb8-4a01-a986-661a0e48c0ad
+
+
 
 
 ## Features
